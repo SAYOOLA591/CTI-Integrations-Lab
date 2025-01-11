@@ -43,7 +43,7 @@ Analysts can view detailed information about the threat actor, including associa
 
 <img src="https://github.com/mullarcyber/CTI-images/blob/79569250e3273659fb10a024bdfc7ce4afddf1a7/rename%20.env%20sample%20to%20.env.png" />
 
-*Ref 4: Generate a UUID for the admin token and update the password for Web GUI access in OpenCTI*
+*Ref 4: Generate a UUID for the admin token and update the password for Web GUI access to OpenCTI*
 
 <img src="https://github.com/mullarcyber/CTI-images/blob/79569250e3273659fb10a024bdfc7ce4afddf1a7/Config%20.env%20and%20editing.png" />
 
