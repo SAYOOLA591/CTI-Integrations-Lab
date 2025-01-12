@@ -1,4 +1,4 @@
-# CTI-Integrations-Lab
+# CTI-Integration-Lab
 
 ## Objective
 
