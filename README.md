@@ -1,6 +1,6 @@
 # CTI-Integration-Lab
 
-## Objective
+## Introduction to CTI
 
 The CTI-Integration Lab integrates OpenCTI with Splunk and incorporates the OTX AlienVault connector to enhance threat detection, enriches and push data to enhanced incident response in real time. By leveraging structured threat intelligence data, this setup enriches Splunk's SIEM capabilities, enabling security teams to correlate, analyze, and respond to cyber threats more effectively.
 
