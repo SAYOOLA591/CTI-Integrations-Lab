@@ -1,11 +1,11 @@
 # CTI-Integration-Lab
 
-## Introduction to CTI
+# Introduction to CTI
 
 The CTI-Integration Lab integrates OpenCTI with Splunk and incorporates the OTX AlienVault connector to enhance threat detection, enrich data, and push it to support enhanced incident response in real-time. By leveraging structured threat intelligence data, this setup enriches Splunk's SIEM capabilities, enabling security teams to correlate, analyze, and respond to cyber threats more effectively.
----
+#
 
-### Skills Learned
+# Skills Learned
 
 - Advanced understanding of SIEM concepts and practical application.
 - Proficiency in using Linux command-line tools e.g Docker-Compose.
@@ -14,7 +14,7 @@ The CTI-Integration Lab integrates OpenCTI with Splunk and incorporates the OTX 
 - Development of critical thinking and problem-solving skills in cybersecurity.
 ---
 
-### Tools Used
+# Tools Used
 
 - Security Information and Event Management (SIEM) system to Invoke KV Store lookups.
 - OPENCTI Developed & maintained by the Filigran team.
@@ -22,7 +22,7 @@ The CTI-Integration Lab integrates OpenCTI with Splunk and incorporates the OTX 
 - 2 UBUNTU SERVER (opencti) (splunk)
 ---
 
-### Example Use Case
+# Example Use Case
 
 Imagine you're monitoring network traffic in Splunk, and OpenCTI has identified a malicious IP address linked to a known threat actor. With the integration in place:
 
